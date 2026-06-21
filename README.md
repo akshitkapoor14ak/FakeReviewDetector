@@ -84,4 +84,13 @@ used the Fake Reviews Dataset from Kaggle — around 40k reviews labeled as CG (
 
 ---
 
+## Contact
+
+Akshit Kapoor
+B.Tech AI and Data Science — 2nd Year
+akshitkapoor14ak@gmail.com
+github.com/akshitkapoor14ak
+
+---
+
 *Akshit Kapoor — B.Tech AI & Data Science, Delhi NCR*
